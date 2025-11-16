@@ -1742,8 +1742,8 @@ If you find a dead link or have suggestions to improve this page, please open a 
 
 - [Ableton Live Project Template](https://github.com/thekeypals/ableton-live-project-template)
 - [Ableton Live User Library](https://github.com/thekeypals/ableton-live-user-library)
-- [Ableton Live Collaborative Workflows](https://github.com/thekeypals/ableton-live-collaborative-workflow)
-- [Ableton Live AI Prompts](https://github.com/thekeypals/ableton-live-ai-prompts) <!-- [Songbook](https://github.com/thekeypals/songbook) -->
+- [Ableton Live Collaborative Workflow](https://github.com/thekeypals/ableton-live-collaborative-workflow)
+- [Ableton Live AI Prompts](https://github.com/thekeypals/ableton-live-ai-prompts)
 - [Useful Links](https://github.com/thekeypals/useful-links)
 
 ### Links
