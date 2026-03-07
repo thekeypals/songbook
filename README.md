@@ -36,7 +36,7 @@ If you'd like to collaborate on a future release, please fill out this [collabor
 ```text
 Version:         1.0
 Release Date:    Friday, 3 June 2022 (Platinum Jubilee Bank Holiday)
-Collection:      Blackpool Rock
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
@@ -132,7 +132,7 @@ C#m  B  A  G#  B  A  G# (x8)
 ```text
 Version:         1.0
 Release Date:    Saturday, 22 April 2023 (Earth Day)
-Collection:      Fossil Fools
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
@@ -227,7 +227,7 @@ Don't let it end on a minor chord
 ```text
 Version:         1.0
 Release Date:    Tuesday, 25 June 2024 (Global Beatles Day)
-Collection:      Millennium Bugs
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
@@ -348,7 +348,7 @@ I’m good, this is fine
 ```text
 Version:         1.0
 Release Date:    Saturday, 22 April 2023 (Earth Day)
-Collection:      Fossil Fools
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
@@ -451,7 +451,7 @@ B  Ab  B  Ab  E  Gb  Ab
 ```text
 Version:         1.0
 Release Date:    Saturday, 25 December 2021 (Christmas Day)
-Collection:      House Cooling Party
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
@@ -584,7 +584,7 @@ And from you and only you can give peace a second chance
 ```text
 Version:         1.0
 Release Date:    Friday, 3 June 2022 (Platinum Jubilee Bank Holiday)
-Collection:      Blackpool Rock
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
@@ -819,7 +819,7 @@ E|-0-1-3---3-1---0-|-----------------|-0---------------|
 ```text
 Version:         1.0
 Release Date:    Saturday, 25 December 2021 (Christmas Day)
-Collection:      House Cooling Party
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
@@ -942,7 +942,7 @@ Killed all his friends
 ```text
 Version:         1.0
 Release Date:    Wednesday, 1 March 2023 (50th Anniversary of The Dark Side of the Moon / National Bed Month)
-Collection:      The Dark Side of the Earth
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
@@ -995,7 +995,7 @@ It’s inemuri
 ```text
 Version:         1.0
 Release Date:    Tuesday, 25 June 2024 (Global Beatles Day)
-Collection:      Millennium Bugs
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
@@ -1095,7 +1095,7 @@ B  C  D  G  A  B (x2)
 ```text
 Version:         1.0
 Release Date:    Friday, 19 September 2025 (International Talk Like a Pirate Day)
-Collection:      Rum and Bass
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
@@ -1211,7 +1211,7 @@ All at sea, left drowning in the noise
 ```text
 Version:         1.0
 Release Date:    Friday, 19 September 2025 (International Talk Like a Pirate Day)
-Collection:      Rum and Bass
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
@@ -1385,7 +1385,7 @@ Another drink! Another drop!
 ```text
 Version:         1.0
 Release Date:    Friday, 1 October 2021 (World Smile Day)
-Collection:      Smize
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
@@ -1505,7 +1505,7 @@ Smize!
 ```text
 Version:         1.0
 Release Date:    Friday, 1 October 2021 (World Smile Day)
-Collection:      Smize
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
@@ -1628,7 +1628,7 @@ Cos there’s no better girl to sit alongside
 ```text
 Version:         1.0
 Release Date:    Wednesday, 1 March 2023 (50th Anniversary of The Dark Side of the Moon / National Bed Month)
-Collection:      The Dark Side of the Earth
+License:         CC0 1.0 Universal
 Contributors:    Christopher Lane, Edward Ellis
 
 
