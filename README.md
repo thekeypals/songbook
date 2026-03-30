@@ -1493,7 +1493,7 @@ Smize, smize, smile with your eyes
 E7                             D7      D7*
 Don't be a stranger, make them fuzzy inside
 
-D7  D7*  (x3)
+D7  D7* (x3)
 
 E
 Smize!
