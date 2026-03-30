@@ -1417,7 +1417,7 @@ Emaj7          C#m          G             B7
 Mask hugs your face, you're feeling fed up
 Emaj7          C#m      C               B7
 On the bargain aisle, a man looking blue
-Emaj7   C#m                  G              B7      E
+Emaj7   C#m                  G              B7  E
 If only there was something, that you could do
 
 [Chorus 1]
@@ -1437,7 +1437,7 @@ Emaj7        C#m        G            B7
 Lady in front becomes increasingly shrill
 Emaj7     C#m        C                B7
 Drunk and angry, she looks down the queue
-Emaj7     C#m                 G           B7      E
+Emaj7     C#m                 G           B7  E
 Your eyes meet, you know what you gotta do
 
 [Chorus 2]
