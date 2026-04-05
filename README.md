@@ -8,6 +8,8 @@ Feel free to build on these songs – for licensing and usage terms, visit the [
 
 If you'd like to collaborate on a future release, please fill out this [collaboration form](https://docs.google.com/forms/d/e/1FAIpQLScRGKR8uRhbcAC3b3VvGJLZVE0qL3IpD0C_S3KhDsywEKBVFg/viewform?usp=sharing&ouid=115125383633421332846).
 
+Bookmark this page with `Cmd` + `D` (Mac) or `Ctrl` + `D` (Windows).
+
 ## Table of Contents
 
 - [Blackpool Rock](#blackpool-rock)  
